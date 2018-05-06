@@ -1,0 +1,10 @@
+D:\Workspaces\CardAPI\bin\Debug\netcoreapp2.0\CardAPI.deps.json
+D:\Workspaces\CardAPI\bin\Debug\netcoreapp2.0\CardAPI.runtimeconfig.json
+D:\Workspaces\CardAPI\bin\Debug\netcoreapp2.0\CardAPI.runtimeconfig.dev.json
+D:\Workspaces\CardAPI\bin\Debug\netcoreapp2.0\CardAPI.dll
+D:\Workspaces\CardAPI\bin\Debug\netcoreapp2.0\CardAPI.pdb
+D:\Workspaces\CardAPI\obj\Debug\netcoreapp2.0\CardAPI.csproj.CoreCompileInputs.cache
+D:\Workspaces\CardAPI\obj\Debug\netcoreapp2.0\CardAPI.AssemblyInfoInputs.cache
+D:\Workspaces\CardAPI\obj\Debug\netcoreapp2.0\CardAPI.AssemblyInfo.cs
+D:\Workspaces\CardAPI\obj\Debug\netcoreapp2.0\CardAPI.dll
+D:\Workspaces\CardAPI\obj\Debug\netcoreapp2.0\CardAPI.pdb
